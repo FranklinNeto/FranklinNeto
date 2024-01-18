@@ -1,10 +1,9 @@
 # Olá, sejam bem-vindos! 👋
 
-- 🤓 Sou desenvolvedor Full Stack e graduando em Análise e Desenvolvimento de Sistemas
+- 🤓 Sou desenvolvedor Full Stack
 - 🌱 Atualmente estou aprendendo Java, NextJS e Swift
 - 🥰  Apaixonado por Engenharia Genética e Programação!
 - 🤔 Procurando maneiras de unir minhas duas paixões (games educativos, será?? 👀)
-- 😄 Pronomes: Ele/Dele
 - ⚡ Fato curioso: quase me formei em Biotecnologia pela UFAM! 
 
 ## Ferramentas e Tecnologias
