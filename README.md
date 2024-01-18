@@ -1,4 +1,4 @@
-# Olá, tudo bem com vcs? Sejam bem-vindos! 👋
+# Olá, sejam bem-vindos! 👋
 
 - 🤓 Sou desenvolvedor Full Stack e graduando em Análise e Desenvolvimento de Sistemas
 - 🌱 Atualmente estou aprendendo Java, NextJS e Swift
