@@ -1,4 +1,11 @@
-# Olá, bem vindo ao meu perfil GitHub ! 👋
+# Olá, tudo bem com vcs? Sejam bem-vindos! 👋
+
+- 🤓 Sou desenvolvedor Full Stack e graduando em Análise e Desenvolvimento de Sistemas
+- 🌱 Atualmente estou aprendendo Java, NextJS e Swift
+- 🥰  Apaixonado por Engenharia Genética e Programação!
+- 🤔 Procurando maneiras de unir minhas duas paixões (games educativos, será?? 👀)
+- 😄 Pronomes: Ele/Dele
+- ⚡ Fato curioso: quase me formei em Biotecnologia pela UFAM! 
 
 ## Ferramentas e Tecnologias
 
@@ -12,7 +19,7 @@
  <!-- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  width="40" height="40"/> -->
 
 
----
+
 
 
   ### Back-End
@@ -22,7 +29,7 @@
 
 
 
-## Contatos:
+---
 
 <div>
 <a href = "mailto: 2frneto@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
