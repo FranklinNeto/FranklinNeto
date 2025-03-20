@@ -1,7 +1,7 @@
 # Olá, sejam bem-vindos! 👋
 
 - 🤓 Sou desenvolvedor Full Stack
-- 🌱 Atualmente estou aprendendo Java, NextJS e Swift
+- 🌱 Atualmente estou aprendendo React-Native
 - 🥰  Apaixonado por Engenharia Genética e Programação!
 - 🤔 Procurando maneiras de unir minhas duas paixões (games educativos, será?? 👀)
 - ⚡ Fato curioso: quase me formei em Biotecnologia pela UFAM! 
